@@ -1,4 +1,4 @@
-# Hi👋 there, I'm Sankalp !
+# Hi there👋, I'm Sankalp !
 **A passioante Java Developer || Responsive Web Developer || Full Stack Developer**
 
 
